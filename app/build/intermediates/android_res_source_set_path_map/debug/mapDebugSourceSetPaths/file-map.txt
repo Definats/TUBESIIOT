@@ -1,0 +1,43 @@
+com.definasalma.iiot.app-material-ripple-release-0 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\03f3bceffa3e0e8e9f7bf77e735cbc11\workspace\transformed\material-ripple-release\res
+com.definasalma.iiot.app-savedstate-ktx-1.4.0-1 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\0aa25f7178fab3b40226841e89ec907e\workspace\transformed\savedstate-ktx-1.4.0\res
+com.definasalma.iiot.app-play-services-base-18.1.0-2 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\0cd7b23fa4f38f790b2e3ae9cc8d8827\workspace\transformed\play-services-base-18.1.0\res
+com.definasalma.iiot.app-lifecycle-viewmodel-3 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\158a94d89a84fdf674142158ce5b8ae2\workspace\transformed\lifecycle-viewmodel\res
+com.definasalma.iiot.app-firebase-common-21.0.0-4 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\17b79030e006cf7a5a84be307d78804d\workspace\transformed\firebase-common-21.0.0\res
+com.definasalma.iiot.app-activity-compose-1.13.0-5 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\18fcc3abcfb4987841f055d1ba09e933\workspace\transformed\activity-compose-1.13.0\res
+com.definasalma.iiot.app-activity-ktx-1.13.0-6 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\2e59612c85265ad3d93ad4fee70a7f08\workspace\transformed\activity-ktx-1.13.0\res
+com.definasalma.iiot.app-core-viewtree-1.0.0-7 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\3718e0eb087fb8a5670e471891a1dd23\workspace\transformed\core-viewtree-1.0.0\res
+com.definasalma.iiot.app-customview-poolingcontainer-1.0.0-8 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\3738e655d3c6d023e7996227351e2675\workspace\transformed\customview-poolingcontainer-1.0.0\res
+com.definasalma.iiot.app-lifecycle-process-2.10.0-9 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\37a0406dc1602a14c900981db973475b\workspace\transformed\lifecycle-process-2.10.0\res
+com.definasalma.iiot.app-emoji2-1.4.0-10 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\4023a3d0eb1f2053f57008327102c9fe\workspace\transformed\emoji2-1.4.0\res
+com.definasalma.iiot.app-ui-release-11 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\41ed810d66beacfebe08bc8dff38130c\workspace\transformed\ui-release\res
+com.definasalma.iiot.app-play-services-basement-18.3.0-12 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\426fc341cad3ea98f859f3e92fcc36a3\workspace\transformed\play-services-basement-18.3.0\res
+com.definasalma.iiot.app-lifecycle-viewmodel-ktx-2.10.0-13 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\4c119d91a33f845e7db49a3db2d91d9b\workspace\transformed\lifecycle-viewmodel-ktx-2.10.0\res
+com.definasalma.iiot.app-profileinstaller-1.4.0-14 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\5c4c04d402e147bb19762e78738fbdc2\workspace\transformed\profileinstaller-1.4.0\res
+com.definasalma.iiot.app-annotation-experimental-1.4.1-15 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\6804a940eddda591f957cffc4b1c14d8\workspace\transformed\annotation-experimental-1.4.1\res
+com.definasalma.iiot.app-ui-graphics-release-16 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\68bbe2a1e0f70849d1761369bf5b89b2\workspace\transformed\ui-graphics-release\res
+com.definasalma.iiot.app-startup-runtime-1.1.1-17 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\6d59e0db26a73334e531a9034d36d6a4\workspace\transformed\startup-runtime-1.1.1\res
+com.definasalma.iiot.app-lifecycle-livedata-2.10.0-18 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\6dfd958d427d06ca2b67688ff775d8dd\workspace\transformed\lifecycle-livedata-2.10.0\res
+com.definasalma.iiot.app-lifecycle-livedata-core-2.10.0-19 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\7886bde04f89ebddee17e369cff8c5f4\workspace\transformed\lifecycle-livedata-core-2.10.0\res
+com.definasalma.iiot.app-savedstate-20 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\7a753a3d9d86df15921722566ae98b5a\workspace\transformed\savedstate\res
+com.definasalma.iiot.app-core-runtime-2.2.0-21 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\7b170d546c2b0cd83fa03bb64e3feaa4\workspace\transformed\core-runtime-2.2.0\res
+com.definasalma.iiot.app-activity-1.13.0-22 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\8a3fbf493b7353fb2af5cd230a7069d8\workspace\transformed\activity-1.13.0\res
+com.definasalma.iiot.app-ui-test-manifest-1.9.2-23 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\9c9d3c3b91771b11467dfb65d3aaeba3\workspace\transformed\ui-test-manifest-1.9.2\res
+com.definasalma.iiot.app-navigationevent-24 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\a417e54947f0975bc29c658b44f202e0\workspace\transformed\navigationevent\res
+com.definasalma.iiot.app-core-ktx-1.18.0-25 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\aa61cfb22e0a9fdf39f802261e092a7a\workspace\transformed\core-ktx-1.18.0\res
+com.definasalma.iiot.app-lifecycle-livedata-core-ktx-2.10.0-26 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\b02999250c16d266fdf3001b10417a5a\workspace\transformed\lifecycle-livedata-core-ktx-2.10.0\res
+com.definasalma.iiot.app-graphics-path-1.0.1-27 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\d9e87c06fc7822d235b56eebb708e70c\workspace\transformed\graphics-path-1.0.1\res
+com.definasalma.iiot.app-tracing-1.2.0-28 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\e02195d226afbfbac8a4b13dd3ed32ad\workspace\transformed\tracing-1.2.0\res
+com.definasalma.iiot.app-lifecycle-runtime-29 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\e3896643a277acd4249393c594df5243\workspace\transformed\lifecycle-runtime\res
+com.definasalma.iiot.app-material3-release-30 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\e4e3b47b1278e1f82889a3dfe0b9ebbb\workspace\transformed\material3-release\res
+com.definasalma.iiot.app-core-1.18.0-31 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\eedd6937b269e59da9d7e79acc614945\workspace\transformed\core-1.18.0\res
+com.definasalma.iiot.app-foundation-release-32 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\f46e6ea0cb754f06d96d1805b9772740\workspace\transformed\foundation-release\res
+com.definasalma.iiot.app-material-icons-core-release-33 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\f6a683016ba12490b02d352cfb59bd4e\workspace\transformed\material-icons-core-release\res
+com.definasalma.iiot.app-material-release-34 C:\Users\NitroV15\.gradle\caches\9.2.1\transforms\f6bead9d479c254636b1a0b98b503c54\workspace\transformed\material-release\res
+com.definasalma.iiot.app-pngs-35 C:\Users\NitroV15\Semester 5\TUBESIIOT\app\build\generated\res\pngs\debug
+com.definasalma.iiot.app-res-36 C:\Users\NitroV15\Semester 5\TUBESIIOT\app\build\generated\res\processDebugGoogleServices
+com.definasalma.iiot.app-updated_navigation_xml-37 C:\Users\NitroV15\Semester 5\TUBESIIOT\app\build\generated\updated_navigation_xml\debug
+com.definasalma.iiot.app-packageDebugResources-38 C:\Users\NitroV15\Semester 5\TUBESIIOT\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.definasalma.iiot.app-packageDebugResources-39 C:\Users\NitroV15\Semester 5\TUBESIIOT\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.definasalma.iiot.app-debug-40 C:\Users\NitroV15\Semester 5\TUBESIIOT\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.definasalma.iiot.app-debug-41 C:\Users\NitroV15\Semester 5\TUBESIIOT\app\src\debug\res
+com.definasalma.iiot.app-main-42 C:\Users\NitroV15\Semester 5\TUBESIIOT\app\src\main\res

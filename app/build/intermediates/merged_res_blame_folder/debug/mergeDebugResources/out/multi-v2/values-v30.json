@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.definasalma.iiot.app-mergeDebugResources-37:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\NitroV15\\.gradle\\caches\\9.2.1\\transforms\\e4e3b47b1278e1f82889a3dfe0b9ebbb\\workspace\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
